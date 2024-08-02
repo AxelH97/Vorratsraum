@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197857722439",
+    "project_id": "vorratsraum-e3fd9",
+    "storage_bucket": "vorratsraum-e3fd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197857722439:android:c137a14610ed4b168b7162",
+        "android_client_info": {
+          "package_name": "com.example.varratsraum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG70Ep4Qd4bJKV3PDQrGcPbPl0b4wLCSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
